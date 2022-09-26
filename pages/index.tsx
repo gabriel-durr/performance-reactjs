@@ -91,5 +91,5 @@ export default Home;
 // useCallback: memorizar uma função
 // USAR QUANDO:
 /*
-  1- temos uma função no pai e precisamos passar para o filho / contexto.
+  1- temos uma função no pai e precisamos passar para o filho / contexto
 */
